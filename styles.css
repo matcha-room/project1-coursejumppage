@@ -50,7 +50,7 @@ section {
     margin: 0;
     margin-bottom: -6%;
     display: flex;
-    align-self: flex-end;  /* Add this to align #thumbs at the bottom */
+    align-self: flex-end;
 
 }
 
@@ -129,7 +129,7 @@ section {
     }
     .work-item {
         flex-direction: column;
-        align-items: center;  /* Center items horizontally */
+        align-items: center;
         justify-content: center;
         text-align: center;
     }
